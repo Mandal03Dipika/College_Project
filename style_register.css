@@ -1,0 +1,53 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica';
+}
+.cont
+{
+    margin: 20px auto;
+    width: 400px;
+    height: 350px;
+    background-color: lemonchiffon;
+}
+.top
+{
+    height: 40px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two
+{
+    width:90%;
+    height: 40px;
+    border: 2px solid sandybrown;
+    font-size: 15px;
+    border-radius: 5px;
+    display: flex;
+    justify-content:left;
+    align-items: end;
+    margin: 10px auto;
+}
+.reg
+{
+    width:130px;
+    height:40px;
+    background-color: sandybrown;
+    border-color: sandybrown;
+    display: flex;
+    border-radius: 30px;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 15px;
+    color: rgb(46, 43, 43);
+}
+.msg
+{
+    margin-left: 20px;
+}
